@@ -9,7 +9,7 @@ sitemap:
 
 
 ## **Timeline**
-<!-- ![image-title-here](/images/Heat19.png) -->
+![image-title-here](/images/Heat19.png)
 
 ## **Contest Rules and Guidelines**
 1. Stick to the timeline. We are very strict about timeline since GSoC is very strict at its timeline too and no requests for extension is entertained.
@@ -32,54 +32,50 @@ Search through the list and find the project for your calling. After which, come
 
 We will be sure to nerd you out with the info about the projects.
 
-## Django/Python/HTML/CSS
+## [Audition-Management-System](https://github.com/JayjeetAtGithub/Audition-Management-System)
 
-### [IntReview](https://github.com/arc9693/IntReview)
-
-📒 An app that records various interview responses and publicise them. Hosted at [Link](https://archana9693.pythonanywhere.com/)
+📒 An Audition Management System primarily for GLUG Auditions
 <br/>
 Language: Python
 <br/>
 
-### [YT_Downloader](https://github.com/lugnitdgp/yt_downloader)
+## [Fearch](https://github.com/NITDgpos/fearch)
 
-Download Videos from Youtube
-Language: Pyhton JavaScript
+The biggest star of NITDgpOS. This is a chrome extension where we can search music,video and books over ftp servers.
+Language: JavaScript
 
-### [Codeara](https://github.com/lugnitdgp/Codeara)
+## [freemex](https://github.com/lugnitdgp/freemex)
 
-An Online Code Execution Platform using Jdoodle API 
+Online stock market game
+<br/>
+Language: JavaScript
+
+## [freepl_main](https://github.com/lugnitdgp/freepl_main)
+
+FREEPL is a online fantasy cricket game where the player gets to create a team according to the live matches going on around the world.
+<br/>
+Language: Javascript,CSS
+
+## [IntReview](https://github.com/arc9693/IntReview)
+
+An app that records various interview responses and publicise them.
 <br/>
 Language: Python
 
-### [ReviewBook](https://github.com/lugnitdgp/ReviewBook)
+## [Medium_Grabber](https://github.com/NITDgpoS/Medium_Grabber)
 
-Write Reviews about your favourite Movies
+This is an automated program that lets you grab the link of any article under any topic just by logging into your Google-medium account.
 <br/>
 Language: Python
 
-### [Instagram](https://github.com/lugnitdgp/Instagram)
+## [onelogger](https://github.com/realsdx/onelogger)
 
-The name is enough!
-<br/>
-Language: Python
-
-## JS (Node/React/Vanilla), Html , CSS , SCSS
-
-### [PlayPal](https://github.com/lugnitdgp/PlayPal)
-
-Webapp for finding songs later to be added to a playlist where they will be playable 
-<br/>
-Language: NodeJS
-
-### [Attendance Tracker](https://github.com/lugnitdgp/Attendancetracking)
-
-Track your attendace here
+An IP Logger
 <br/>
 Language: Javascript
 
-### [Metal UI](https://github.com/lugnitdgp/Metal_UI)
+## [StudentPortal](https://github.com/NIT-DGPortal/StudentPortal)
 
-https://github.com/lugnitdgp/Metal_UI
+A customised study portal for NIT Durgapur.
 <br/>
-Language: CSS
+Language: Python
